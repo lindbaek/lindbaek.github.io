@@ -9,4 +9,4 @@ How hard can **be**?
 \
 $1 + 1 = 2$
 \
-![Image](/_images/bokeh_plot.png)
+![Image](/_images/bokeh_plot)
