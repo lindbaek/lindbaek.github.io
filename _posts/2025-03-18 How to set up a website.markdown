@@ -6,3 +6,4 @@ categories: jekyll update
 ---
 ## Setting up first blogpost
 How hard can **be**?
+$1 + 1 = 2$
