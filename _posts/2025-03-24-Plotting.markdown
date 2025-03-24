@@ -4,5 +4,4 @@ title:  "Plotting"
 date:   2025-03-24 12:00:59 +0100
 categories: jekyll update
 ---
-![Github Logo](/assets/_images/bokeh_plot.png)
-![My Image]({{}}_images/bokeh_plot.png)
+![Bokeh Plot](_images/bokeh_plot.png)
