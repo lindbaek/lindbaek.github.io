@@ -13,4 +13,4 @@ $$
 $$
 
 Check it out, here's an interactive Bokeh plot
-<iframe src="/iamges/bokeh_plot.html" width="800" height="600"></iframe>
+<iframe src="/images/bokeh_plot.html" width="800" height="600"></iframe>
