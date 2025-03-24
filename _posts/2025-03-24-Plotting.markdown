@@ -4,4 +4,13 @@ title:  "Plotting"
 date:   2025-03-24 12:00:59 +0100
 categories: jekyll update
 ---
+It took me forever to plot this bullshit. Of course the trick is to know that if you have a folder that starts with "_", then it is ignored. Which was a problem...
 ![Bokeh Plot](/images/bokeh_plot.png)
+
+
+$$
+\int_{a}^{b} x^2 \,dx = \frac{b^3}{3} - \frac{a^3}{3}
+$$
+
+Check it out, here's an interactive Bokeh plot
+<iframe src="/iamges/bokeh_plot.html" width="800" height="600"></iframe>
