@@ -14,3 +14,6 @@ $$
 
 Check it out, here's an interactive Bokeh plot
 <iframe src="/images/bokeh_plot.html" width="800" height="600"></iframe>
+
+Now for my next trick, behold, an interactive heatmap
+<iframe src="/images/folium_heatmap.html" width="800" height="600"></iframe>
