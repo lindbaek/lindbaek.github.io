@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Assignment 2 - Topic"
-date:   2025-03-31 12:00:59 +0100
+date:   2025-03-25 12:00:59 +0100
 categories: jekyll update
 ---
 Introduction and stuff
