@@ -9,7 +9,9 @@ Introduction and stuff
 ### Time-series/Bar-chart
 ![Time series](/images/drug_per_year.png)
 Kunne plottes med en linje om generel udvikling af crimes
+
 Skal være i samme størrelse som det andetn
+
 Størrelsen på plt plots' tekst er ikke tilsvarende til html, så der skal sjusses eller undersøges så det passer til formatet.
 
 ### Map (ALEX)
@@ -21,12 +23,16 @@ Put in a timeseries map of geographical drug-crime data per year. That way we ca
 Help: It is easier to read the data, when only displaying two years at the same time.
 
 EDIT: Legend frame skal allignes med plot frame
+
 Kan man undgå boksen udenom?
 
 ### HTML FORMAT guidelines
 (størrelsesforholdet er anderledes på plt plots)
 
 Font: Arial
+
 title: 20 pt, bold
+
 axis-label: 14 pt, normal
+
 axis-ticks: 12 pt, normal
