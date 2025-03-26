@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Assignment 2 - Drug Related Crimes in Sanfransisco throughout the years"
+title:  "Assignment 2 - Drug Related Crimes in San Fransisco throughout the years"
 date:   2025-03-25 12:00:59 +0100
 categories: jekyll update
 ---
