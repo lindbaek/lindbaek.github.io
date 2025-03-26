@@ -7,14 +7,14 @@ categories: jekyll update
 Introduction and stuff
 
 ### Time-series/Bar-chart
-<img src="/images/drug_per_year.png" width="1200" height="600" />
-
-Could be pl
+![Time series](/images/drug_per_year.png.jpg)
+Kunne plottes med en linje om generel udvikling af crimes
 
 ### Map (ALEX)
 Put in a timeseries map of geographical drug-crime data per year. That way we can see which areas affect the different neighborhoods at different years.
 
-### Drug related crimes per hour (anden eller afskaffelse af overskrift på plot, da det er repetitivt)
+### Drug related crimes per hour 
+(anden eller afskaffelse af overskrift på plot, da det er repetitivt)
 <iframe src="/images/drug_per_hour.html" width="1200" height="600"></iframe>
 Help: It is easier to read the data, when only displaying two years at the same time.
 
