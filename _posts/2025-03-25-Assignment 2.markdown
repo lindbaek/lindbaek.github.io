@@ -7,18 +7,19 @@ categories: jekyll update
 Introduction and stuff
 
 ### Time-series/Bar-chart
-![Bokeh Plot](/images/drug_per_year.png)
+<img src="/images/drug_per_year.png" width="1200" height="600" />
 
-Explanatory text
+Could be pl
 
 ### Map (ALEX)
-Explanatory text
+Put in a timeseries map of geographical drug-crime data per year. That way we can see which areas affect the different neighborhoods at different years.
 
-### Interactive Bokeh visualization
+### Drug related crimes per hour (anden eller afskaffelse af overskrift på plot, da det er repetitivt)
 <iframe src="/images/drug_per_hour.html" width="1200" height="600"></iframe>
 Help: It is easier to read the data, when only displaying two years at the same time.
 
 EDIT: Legend frame skal allignes med plot frame
+Kan man undgå boksen udenom?
 
 ### HTML FORMAT guidelines
 (størrelsesforholdet er anderledes på plt plots)
