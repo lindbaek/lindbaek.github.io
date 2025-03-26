@@ -7,7 +7,7 @@ categories: jekyll update
 Introduction and stuff
 
 ### Time-series/Bar-chart
-![Time series](/images/drug_per_year.png){:style="width: 1200px; height: 600px;"}
+<img src="/images/drug_per_year.png" width="1200" height="600" />
 
 Could be pl
 
