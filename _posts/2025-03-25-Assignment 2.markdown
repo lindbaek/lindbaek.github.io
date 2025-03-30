@@ -7,9 +7,8 @@ categories: jekyll update
 Introduction and stuff
 
 ### Time-series/Bar-chart
-<div style="text-align: center;">
-    <img src="/images/drug_per_year.png" alt="Time series" width="1200px">
-</div>
+![Time series](/images/drug_per_year.png){: style="display: block; margin: auto; width: 1000px;" }
+
 Kunne plottes med en linje om generel udvikling af crimes
 
 Skal være i samme størrelse som det andetn
