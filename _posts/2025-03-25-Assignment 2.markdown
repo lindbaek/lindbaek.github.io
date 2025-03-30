@@ -16,6 +16,7 @@ Størrelsen på plt plots' tekst er ikke tilsvarende til html, så der skal sjus
 
 ### Map (ALEX)
 Put in a timeseries map of geographical drug-crime data per year. That way we can see which areas affect the different neighborhoods at different years.
+<iframe src="/images/heatmapdrugs.html" width="100%" height="600px" style="border:none;"></iframe>
 
 ### Drug related crimes per hour 
 (anden eller afskaffelse af overskrift på plot, da det er repetitivt)
