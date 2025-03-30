@@ -5,7 +5,6 @@ date:   2025-03-25 12:00:59 +0100
 categories: jekyll update
 ---
 Introduction and stuff
-asdg ajsd,jgar g.sd.kjg aekn,g alrg la-ngm-lakng-l ad
 
 ### Time-series/Bar-chart
 ![Time series](/images/drug_per_year.png){: style="display: block; margin: auto; width: 1000px;" }
@@ -23,7 +22,7 @@ Put in a timeseries map of geographical drug-crime data per year. That way we ca
 ### Drug related crimes per hour 
 (anden eller afskaffelse af overskrift på plot, da det er repetitivt)
 
-<p style="text-align:center;"><iframe src="/images/drug_per_hour.html" width="1200" height="600" style="border:none; display: block; margin: 0 auto;"></iframe></p>
+<p style="text-align:center;"><iframe src="/images/drug_per_hour.html" width="100%" height="300" style="border:none; display: block; margin: 0 auto;"></iframe></p>
 
 
 Help: It is easier to read the data, when only displaying two years at the same time.
