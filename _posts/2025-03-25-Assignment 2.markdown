@@ -26,7 +26,6 @@ Put in a timeseries map of geographical drug-crime data per year. That way we ca
 
 
 Help: It is easier to read the data, when only displaying two years at the same time.
-
 EDIT: Legend frame skal allignes med plot frame
 
 Kan man undgå boksen udenom?
