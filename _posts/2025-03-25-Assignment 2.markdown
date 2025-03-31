@@ -24,6 +24,11 @@ Put in a timeseries map of geographical drug-crime data per year. That way we ca
 
 <p style="text-align:center;"><iframe src="/images/drug_per_hour.html" width="400" height="100%" style="border:none; display: block; margin: 0 auto;"></iframe></p>
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+    <iframe src="/images/drug_per_hour.html" 
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;"></iframe>
+</div>
+
 
 Help: It is easier to read the data, when only displaying two years at the same time.
 EDIT: Legend frame skal allignes med plot frame
