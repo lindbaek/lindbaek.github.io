@@ -9,6 +9,11 @@ Introduction and stuff
 ### Time-series/Bar-chart
 ![Time series](/images/drug_per_year.png){: style="display: block; margin: auto; width: 1000px;" }
 
+d
+
+![Time series](/images/drug_per_year.png){: style="display: block; width: 800px; margin-left: 0; margin-right: auto;" }
+
+
 Kunne plottes med en linje om generel udvikling af crimes
 
 Skal være i samme størrelse som det andetn
