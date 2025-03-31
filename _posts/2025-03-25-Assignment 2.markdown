@@ -22,7 +22,7 @@ Put in a timeseries map of geographical drug-crime data per year. That way we ca
 ### Drug related crimes per hour 
 (anden eller afskaffelse af overskrift på plot, da det er repetitivt)
 
-<p style="text-align:center;"><iframe src="/images/drug_per_hour.html" width="100%" height="300" style="border:none; display: block; margin: 0 auto;"></iframe></p>
+<p style="text-align:center;"><iframe src="/images/drug_per_hour.html" width="100%" height="100%" style="border:none; display: block; margin: 0 auto;"></iframe></p>
 
 
 Help: It is easier to read the data, when only displaying two years at the same time.
