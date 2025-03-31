@@ -7,10 +7,6 @@ categories: jekyll update
 Introduction and stuff
 
 ### Time-series/Bar-chart
-![Time series](/images/drug_per_year.png){: style="display: block; margin: auto; width: 1000px;" }
-
-d
-
 <img src="/images/drug_per_year.png" alt="Time series" style="display: block; width: 800px; margin-left: 0; margin-right: auto;" />
 
 
