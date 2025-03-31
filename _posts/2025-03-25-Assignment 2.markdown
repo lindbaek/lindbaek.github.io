@@ -11,7 +11,8 @@ Introduction and stuff
 
 d
 
-![Time series](/images/drug_per_year.png){: style="display: block; width: 800px; margin-left: 0; margin-right: auto;" }
+<img src="/images/drug_per_year.png" alt="Time series" style="display: block; width: 800px; margin-left: 0; margin-right: auto;" />
+
 
 
 Kunne plottes med en linje om generel udvikling af crimes
